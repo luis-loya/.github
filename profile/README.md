@@ -30,14 +30,14 @@ My focus: **AI that operations teams actually use** — automated, scheduled, go
 
 | # | Project | What it does | Stack |
 |---|---|---|---|
-| 1 | [**Downtime Intelligence Platform**](case-studies/01-downtime-intelligence-platform.md) | Multi-agent AI that classifies severity, finds root causes and routes downtime reports to the right engineer | Python · LangGraph · SQL Server · FastAPI |
-| 2 | [**Technical Availability Reporting Agent**](case-studies/02-technical-availability-agent.md) | Weekly TA%, MTTR, MTBF and Pareto analysis with AI-written narrative, delivered as HTML + PDF | Python · LangChain · LiteLLM · Jinja2 |
-| 3 | [**Material Shortage Monitoring Agent**](case-studies/03-material-shortage-agent.md) | BOM explosion vs. inventory and supply to flag part numbers at risk, with an AI analyst on top | Python · Oracle · SQL Server · LLM |
-| 4 | [**Month-End Inventory Closing Forecast**](case-studies/04-inventory-closing-forecast.md) | Forecasts month-end inventory vs. target and walks a diagnostic tree down to the action a planner should take | Python · ML · SAP data |
-| 5 | [**HR Policy Q&A Assistant**](case-studies/05-hr-policy-assistant.md) | Conversational agent answering associate questions from official HR documents | n8n · On-prem LLM · Microsoft Graph |
-| 6 | [**AOI Pin-Position Escape Analysis**](case-studies/06-aoi-pin-escape-analysis.md) | ML correlation of near/out-of-limit pins against tooling, cavities and molds | Databricks · Python · ML |
-| 7 | [**Failure WIP Inventory Pipeline**](case-studies/07-failure-wip-inventory-pipeline.md) | Daily and yearly analytics loads on failed-unit inventory, with observability built in | Python · SQL Server |
-| 8 | [**AI/DS Delivery Standard**](case-studies/08-ai-ds-delivery-standard.md) | The operating model every AI project in the department now follows | Azure DevOps · Power BI · GitHub · M365 |
+| 1 | [**Downtime Intelligence Platform**](https://github.com/luis-loya/.github.io/blob/main/case-studies/01-downtime-intelligence-platform.md) | Multi-agent AI that classifies severity, finds root causes and routes downtime reports to the right engineer | Python · LangGraph · SQL Server · FastAPI |
+| 2 | [**Technical Availability Reporting Agent**](https://github.com/luis-loya/.github.io/blob/main/case-studies/02-technical-availability-agent.md) | Weekly TA%, MTTR, MTBF and Pareto analysis with AI-written narrative, delivered as HTML + PDF | Python · LangChain · LiteLLM · Jinja2 |
+| 3 | [**Material Shortage Monitoring Agent**](https://github.com/luis-loya/.github.io/blob/main/case-studies/03-material-shortage-agent.md) | BOM explosion vs. inventory and supply to flag part numbers at risk, with an AI analyst on top | Python · Oracle · SQL Server · LLM |
+| 4 | [**Month-End Inventory Closing Forecast**](https://github.com/luis-loya/.github.io/blob/main/case-studies/04-inventory-closing-forecast.md) | Forecasts month-end inventory vs. target and walks a diagnostic tree down to the action a planner should take | Python · ML · SAP data |
+| 5 | [**HR Policy Q&A Assistant**](https://github.com/luis-loya/.github.io/blob/main/case-studies/05-hr-policy-assistant.md) | Conversational agent answering associate questions from official HR documents | n8n · On-prem LLM · Microsoft Graph |
+| 6 | [**AOI Pin-Position Escape Analysis**](https://github.com/luis-loya/.github.io/blob/main/case-studies/06-aoi-pin-escape-analysis.md) | ML correlation of near/out-of-limit pins against tooling, cavities and molds | Databricks · Python · ML |
+| 7 | [**Failure WIP Inventory Pipeline**](https://github.com/luis-loya/.github.io/blob/main/case-studies/07-failure-wip-inventory-pipeline.md) | Daily and yearly analytics loads on failed-unit inventory, with observability built in | Python · SQL Server |
+| 8 | [**AI/DS Delivery Standard**](https://github.com/luis-loya/.github.io/blob/main/case-studies/08-ai-ds-delivery-standard.md) | The operating model every AI project in the department now follows | Azure DevOps · Power BI · GitHub · M365 |
 
 ---
 
