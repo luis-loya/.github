@@ -6,7 +6,7 @@ I turn shop-floor data into decisions. Over 16+ years in automotive manufacturin
 
 My focus: **AI that operations teams actually use** — automated, scheduled, governed, and built to survive real corporate constraints (locked-down networks, on-prem models, strict data policies).
 
-🌐 **Portfolio site:** https://luis-loya.github.io &nbsp;·&nbsp; 💼 **LinkedIn:** https://linkedin.com/in/luis-alonso-loya
+🌐 **Portfolio site:** https://luis-loya.github.io/.github.io &nbsp;·&nbsp; 💼 **LinkedIn:** https://linkedin.com/in/luis-alonso-loya
 
 ---
 
